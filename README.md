@@ -1,6 +1,6 @@
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
 Отчет по лабораторной работе #1 выполнил(а):
-- Дзюнов Тимур Муратович
+- Трошко Егор Юрьевич
 - ФО-220007
 Отметка о выполнении заданий (заполняется студентом):
 
@@ -45,7 +45,6 @@
 ```py
 
 print('Hello World')
-![image](https://github.com/dzukai/Dzyunov-Timur-DA-in-GameDev-lab1/assets/149794080/218971a0-8aff-4e85-afc8-e08a5198e63f)
 
 
 
@@ -71,12 +70,7 @@ public class HelloWorld : MonoBehaviour
         
     }
 }
-![image](https://github.com/dzukai/Dzyunov-Timur-DA-in-GameDev-lab1/assets/149794080/405ea91d-61a4-4b2f-a813-4d5b3482f143)
 
-
-## Задание 3
-### Оформить отчет в виде документации на github (markdown-разметка).
-Оформил, сейчас вы читаете именно его.
 
 ```
 
